@@ -1,7 +1,7 @@
 # Data-Analysis_Numpy
 
 # Repository to learn essential  NumPy concepts.
-##By Tanishq Dwivedi
+                                                   ##By Tanishq Dwivedi
 
 -- NumPy (or Numpy) is a Linear Algebra Library for Python, the reason it is so important for Data Science with Python is that almost all of the libraries in the PyData Ecosystem rely on NumPy as one of their main building blocks.
 
